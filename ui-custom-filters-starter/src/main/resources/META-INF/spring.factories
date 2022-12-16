@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  ru.apolyakov.ui_custom_filters.UiCustomFiltersAutoConfiguration
