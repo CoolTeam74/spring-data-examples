@@ -21,4 +21,14 @@
         <module>ui-custom-filters-starter</module>
     </modules>
 
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>ru.apolyakov</groupId>
+                <artifactId>ui-custom-filters-starter</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
 </project>
